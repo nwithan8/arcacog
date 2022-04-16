@@ -1,0 +1,9 @@
+Logging: DEBUG
+
+Discord:
+  # Admin users for this specific cog
+  # Right-click on your profile picture -> "Copy ID"
+  AdminIDs:
+    - 123456789
+  AdminRoleNames:
+    - Admin
