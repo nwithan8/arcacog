@@ -1,8 +1,8 @@
 from typing import List
 
-from arcacog.databases.imports import *
+from arca.ext.database.imports import *
 
-from arcacog.utils import convert_to_bool
+from arca.utilities import convert_to_bool
 
 Base = declarative_base()
 

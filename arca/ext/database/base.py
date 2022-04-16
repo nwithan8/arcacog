@@ -3,7 +3,7 @@ import sqlite3
 from functools import wraps
 from typing import List, Any, Union
 
-from arcacog.databases.imports import *
+from arca.ext.database.imports import *
 
 
 def none_as_null(func):
