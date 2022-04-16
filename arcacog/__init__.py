@@ -1,5 +1,6 @@
 from arcacog.config import ArcaCogConfig
 from arcacog.cog import ArcaCog
+from arcacog.translations import ArcaFilePath
 
 from arcacog import databases
 from arcacog import logs
