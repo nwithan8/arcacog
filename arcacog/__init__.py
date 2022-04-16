@@ -1,3 +1,3 @@
 from arcacog.config import ArcaCogConfig
 
-from dbotbase import *
+import arcacog.discord as discord
