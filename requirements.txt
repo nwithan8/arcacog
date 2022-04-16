@@ -1,1 +1,4 @@
 dbotbase
+progress==1.6
+SQLAlchemy-Utils==0.38.2
+SQLAlchemy==1.4.35

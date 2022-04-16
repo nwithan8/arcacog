@@ -1,3 +1,9 @@
 from arcacog.config import ArcaCogConfig
+from arcacog.cog import ArcaCog
 
-import arcacog.discord as discord
+from arcacog import databases
+from arcacog import logs
+from arcacog import utils
+
+from dbotbase import discord_utils
+from dbotbase import discord_decorators
