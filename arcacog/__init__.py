@@ -5,5 +5,4 @@ from arcacog import databases
 from arcacog import logs
 from arcacog import utils
 
-from dbotbase import discord_utils
-from dbotbase import discord_decorators
+from dbotbase import discord_utils, discord_decorators, SlashCommand, SlashCommandGroup
